@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on internships in statistics and data science
 - 🤔 I’m looking for help with understanding code
 - 💬 Ask me about music, performance art, or politics
-- 📫 How to reach me: shane.klingelberger@tamu.edu
+- 📫 How to reach me: shane.klingelberger@tamu.edu, https://www.linkedin.com/in/shane-klingelberger-79283532a/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Dressing up in scary costumes for Halloween is one of my favorite holiday activities!
 -->
