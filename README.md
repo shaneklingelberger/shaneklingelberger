@@ -1,5 +1,6 @@
-## Hi there 👋
+## Howdy 👋
 
+I'm Shane!
 - 🔭 I’m currently working on a BS in Statistics and linear regression projects in python and R in the future
 - 🌱 I’m currently learning how to build coding in order to analyze new data sets, understanding calculus, linear algebra, differential equations, and principles of statistics
 - 👯 I’m looking to collaborate on internships in statistics and data science
